@@ -16,7 +16,7 @@ function App() {
       {/* NAVBAR */}
       <nav className="navbar">
         <div className="logo">
-          Haris<span>.</span>
+          Haris Imran<span>.</span>
         </div>
 
         <a
